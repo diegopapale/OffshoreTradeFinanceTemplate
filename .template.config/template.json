@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "GFT",
+  "classifications": ["WebAPI", "DDD", "Clean Architecture", "Template"],
+  "identity": "OffshoreTradeFinanceTemplate",
+  "name": "Offshore Trade Finance Template",
+  "shortName": "trade-api-template",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "OffshoreTradeFinance",
+  "preferNameDirectory": true
+}
